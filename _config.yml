@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I’m a recent Clemson graduate pursuing a career in academia.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mewinkl.github.io” # the base hostname & protocol for your site
+twitter_username: jekyllrb
 github_username:  mewinkl
 
 # Build settings
@@ -12,6 +13,7 @@ markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
+job.title: "Assistant Professor"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
