@@ -2,7 +2,7 @@
 title: Morgan E. Winkler
 email: mewinkl@g.clemson.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a recent graduate from Clemson University pursuing a career in academia.
+  I am a recent graduate from Clemson University pursuing a career in academia. Currently a graduate student at Texas A&M.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mewinkl.github.io" # github.com
 twitter_username:
